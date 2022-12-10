@@ -1,6 +1,7 @@
 ## 11785-FakeNewsDetection
 
 This is our project for the course 11-785: Introduction to deep learning. 
+
 Authors: Adnan Lokhandwala, Benny Uhoranishema, Nihar Gaddam, Xiangjian(Aaron) Zeng
 
 
